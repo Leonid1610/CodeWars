@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92c4a53d-a030-4dc7-9911-998142cc036c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeWars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PangramChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/src/main/java/ru/tinkoff/bloomberg/integrations/autotest/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/src/main/java/ru/tinkoff/bloomberg/integrations/autotest/configuration/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,5 +45,28 @@
       <updated>1586445679875</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586446712960">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586446712960" />
+    <state width="509" height="478" key="Git.Branch.Popup" timestamp="1586446800511">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="509" height="478" key="Git.Branch.Popup/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586446800511" />
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1586446898277">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586446898277" />
+    <state x="2684" y="452" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1586446815017">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2684" y="452" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586446815017" />
   </component>
 </project>
